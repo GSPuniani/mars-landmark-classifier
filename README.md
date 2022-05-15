@@ -1,0 +1,1 @@
+The main file in this repository is the Mars_Landmark_Classifier.ipynb notebook. It provides a walkthrough of the CNN Model used to classify the Mars Image classifications. It is deployed within the notebook using ngrok. 
